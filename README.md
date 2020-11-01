@@ -1,2 +1,3 @@
 # cucumber_template
-Template for cucumber project
+It is a template for cucumber project with sample.
+
